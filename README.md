@@ -4,4 +4,4 @@ starting from scratch or with minimal experience, offering a practical approach 
 eventually building a career in embedded systems or electronics. It outlines how to go from self-taught basics to hands-on
 
 
-
+# Step 1: Foundations (Months 1-3)
