@@ -10,5 +10,5 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 -Get hands-on with simple kits or breadboards.
 
--Familiarize yourself with simple microcontrollers like arduino
+-Familiarize yourself with simple microcontrollers like arduino and 
  
