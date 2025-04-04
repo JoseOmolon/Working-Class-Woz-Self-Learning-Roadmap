@@ -8,5 +8,5 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 -Learn basic eletronics concepts: voltage, current, amps, resistance, ohm's law, etc.
 
--Get hands-on with simple kit or
+-Get hands-on with simple kits or breadboards.
  
