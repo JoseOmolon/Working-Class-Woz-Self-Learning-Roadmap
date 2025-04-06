@@ -13,3 +13,5 @@ eventually building a career in embedded systems or electronics. It outlines how
 -Familiarize yourself with simple microcontrollers like Arduino and Raspberry Pi
  
 # Step 2: Intermediate Skills (Months 4-6)
+
+- Dive deeper into C
