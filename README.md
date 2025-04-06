@@ -16,4 +16,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 - Dive deeper into C programming and start learning how to write code for embedded systems.
 
-- Begin learning
+- Begin learning how to
