@@ -14,4 +14,4 @@ eventually building a career in embedded systems or electronics. It outlines how
  
 # Step 2: Intermediate Skills (Months 4-6)
 
-- Dive deeper into C
+- Dive deeper into C programming and
