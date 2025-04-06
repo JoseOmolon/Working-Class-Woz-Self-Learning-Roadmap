@@ -6,11 +6,11 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 # Step 1: Foundations (Months 1-3)
 
--Learn basic eletronics concepts: voltage, current, amps, resistance, ohm's law, etc.
+- Learn basic eletronics concepts: voltage, current, amps, resistance, ohm's law, etc.
 
--Get hands-on with simple kits or breadboards.
+- Get hands-on with simple kits or breadboards.
 
--Familiarize yourself with simple microcontrollers like Arduino and Raspberry Pi
+- Familiarize yourself with simple microcontrollers like Arduino and Raspberry Pi
  
 # Step 2: Intermediate Skills (Months 4-6)
 
