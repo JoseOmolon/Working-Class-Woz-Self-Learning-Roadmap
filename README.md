@@ -20,4 +20,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 - Explore IoT concepts and learn to connect devices (smart lights, temperature sensors, etc.)
 
-# Step 3: Advanced Skills
+# Step 3: Advanced Skills and Professionalism (Months 7-12)
