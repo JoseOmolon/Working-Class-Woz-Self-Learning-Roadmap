@@ -18,4 +18,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 - Begin learning how to interface with sensors, motors, and other devices.
 
-- Explore IoT concepts and learn to connect devices (smart lights, temperature sensors,
+- Explore IoT concepts and learn to connect devices (smart lights, temperature sensors, etc.)
