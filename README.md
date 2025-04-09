@@ -22,4 +22,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 # Step 3: Advanced Skills and Professionalism (Months 7-12)
 
-- Learn advanced embedded
+- Learn advanced embedded systems topics:
