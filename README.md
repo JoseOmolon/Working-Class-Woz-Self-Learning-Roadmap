@@ -23,4 +23,5 @@ eventually building a career in embedded systems or electronics. It outlines how
 # Step 3: Advanced Skills and Professionalism (Months 7-12)
 
 - Learn advanced embedded systems topics: RTOS (Real-Time Operating Systems), debugging, and optimization.
+
 - Work with advanced microcontrollers
