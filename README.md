@@ -25,3 +25,5 @@ eventually building a career in embedded systems or electronics. It outlines how
 - Learn advanced embedded systems topics: RTOS (Real-Time Operating Systems), debugging, and optimization.
 
 - Work with advanced microcontrollers like STM32 or ESP32.
+
+- Build more
