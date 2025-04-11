@@ -26,4 +26,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 - Work with advanced microcontrollers like STM32 or ESP32.
 
-- Build more
+- Build more complex IoT projects,
