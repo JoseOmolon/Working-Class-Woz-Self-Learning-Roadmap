@@ -28,4 +28,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 
 - Build more complex IoT projects, like smart home systems, wearable devices, etc.
 
-- Look for entry-level internships or
+- Look for entry-level internships or apprenticeships in 
