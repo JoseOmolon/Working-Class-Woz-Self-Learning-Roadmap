@@ -33,4 +33,4 @@ eventually building a career in embedded systems or electronics. It outlines how
 # Conclusion
 
 The key to becoming a "working class Woz" is consistent learning and hands-on practice. It won't be
-easy, and there will be setbacks, but with determination,
+easy, and there will be setbacks, but with determination, you can make steady progress.
